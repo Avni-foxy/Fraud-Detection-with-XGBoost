@@ -1,0 +1,14 @@
+📁 fraud_detection_project/
+├── 1_eda.ipynb                 ✅ DONE
+├── 2_feature_engineering.ipynb ✅ DONE  
+├── 3_adasyn.ipynb             ✅ DONE
+├── 4_model.ipynb              ✅ DONE
+├── 5_model_evaluation.ipynb    ← **CREATE NEXT**
+├── 6_deployment.ipynb          ← Then
+├── 7_security_xai.ipynb        ← Advanced
+├── data/
+│   ├── engineered_train.pkl
+│   ├── engineered_test.pkl
+│   ├── adasyn_X_train.pkl
+│   └── xgboost_model.json
+└── predictions.csv
